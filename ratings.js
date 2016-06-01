@@ -45,12 +45,6 @@ where age == minAgeForRating, return relevant rating from ratings
 
 (ages[age] > minAgeForRating[age] && ages[age] < minAgeForRating[age])
 
-ages.forEach(function (i,index) {
-  var response = "Age " + ages[index] + " can watch movies rated " + minAgeForRating[index] + " " + ratings[index];
-  console.log(response)
-  i++;
-});
-
 For ech age, find all values that are true (meet age requirement) in minAgeForRating.
 For those values
 
