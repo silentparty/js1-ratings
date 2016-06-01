@@ -1,3 +1,8 @@
+/*
+JS1 Homework — Tutor answer
+https://gist.github.com/jesstelford/027ee367d6f56c94dfadb1924e408ae9
+*/
+
 var ages = [1, 23, 8, 12, 16];
 var ratings = ['G', 'PG', 'M', 'MA'];
 var minAgeForRating = [0, 9, 12, 15];

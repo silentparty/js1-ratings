@@ -1,5 +1,5 @@
 /*
-JS1 Homework
+JS1 Homework — My Answer
 https://gist.github.com/jesstelford/027ee367d6f56c94dfadb1924e408ae9
 */
 
